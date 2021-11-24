@@ -1,0 +1,2 @@
+1- https://www.codementor.io/@michelre/using-box-shadow-to-construct-a-border-ex0rpxvng
+2-https://moderncss.dev/expanded-use-of-box-shadow-and-border-radius/
